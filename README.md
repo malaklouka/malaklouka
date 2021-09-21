@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 -I’m Malak Nakaa. I am a Full Stack Developer from Tunisia.
 - 🌱 I’m currently learning new technologies.
