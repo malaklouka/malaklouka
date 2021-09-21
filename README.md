@@ -1,16 +1,10 @@
 ### Hi there 👋
-
-<!--
-**malaklouka/malaklouka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+laklouka/malaklouka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 -I’m Malak Nakaa. I am a Full Stack Developer from Tunisia.
 - 🌱 I’m currently learning new technologies.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: Email: malaknakaa@gmail.com LinKedin: https://www.linkedin.com/in/malak-nakaa-926030120/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
