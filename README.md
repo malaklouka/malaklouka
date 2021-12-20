@@ -13,3 +13,9 @@ I also have the ability to work independently while staying on schedule and meet
 - 📫 How to reach me: Email: malaknakaa@gmail.com LinKedin: https://www.linkedin.com/in/malak-nakaa-926030120/
 
 
+
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=malaklouka&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
