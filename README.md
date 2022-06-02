@@ -9,7 +9,7 @@ In addition to this, I have the ability to adapt to any type of team environment
 I also have the ability to work independently while staying on schedule and meeting those tight deadlines.
 
 :computer: I’m currently learning new technologies.
-- Portfolio:(https://me-malaklouka.vercel.app/)
+- Portfolio:https://me-malaklouka.vercel.app/
 - 📫 How to reach me: Email: malaknakaa@gmail.com LinKedin: https://www.linkedin.com/in/malak-nakaa-926030120/
 
 
